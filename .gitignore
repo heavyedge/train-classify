@@ -1,7 +1,9 @@
 _data
 _temp
 examples/**/*.h5
+examples-*
 benchmarks
+benchmarks-*
 models/**/*.pkl
 models/**/.gitattributes
 

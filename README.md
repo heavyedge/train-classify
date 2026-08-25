@@ -94,6 +94,13 @@ To check their outputs, you must acquire the built example notebooks.
 
 You can either download the built notebooks from the [GitHub release](https://github.com/heavyedge/classification-model/releases) artifacts, or build the notebooks yourself if you have acquired the preprocessed data.
 
+#### Download from GitHub release
+
+```sh
+curl -L -O <artifact url>
+tar -xf <artifact path> -C <build directory>
+```
+
 #### Building the notebooks
 
 You need:
